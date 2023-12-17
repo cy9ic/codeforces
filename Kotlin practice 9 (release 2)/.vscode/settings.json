@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.gradle": "dart",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
